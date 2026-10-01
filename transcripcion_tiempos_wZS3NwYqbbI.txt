@@ -1,0 +1,638 @@
+[2s | 00:02] El futuro ya está aquí. Esto es [música]
+[6s | 00:06] el día de la IA.
+[8s | 00:08] Pues empezamos como todos los jueves con
+[11s | 00:11] nuestra clase particular, particular en
+[13s | 00:13] realidad colectiva abierta a todos sobre
+[15s | 00:15] nuevas tecnologías, sobre inteligencia
+[16s | 00:16] artificial, porque hoy es el día de la
+[18s | 00:18] IA. ¿Y quién es el profesor?
+[20s | 00:20] Efectivamente, David Martínez, ¿qué tal
+[21s | 00:21] estás?
+[21s | 00:21] Muy bien, muchas gracias. Bueno, lo muy
+[23s | 00:23] bien lo decimos por decir porque estoy
+[24s | 00:24] un poco tomado de la voz. Estos cambios
+[26s | 00:26] de temperatura tan fuertes entre la
+[28s | 00:28] mañana y el mediodía, pues están pasando
+[30s | 00:30] factura este año.
+[31s | 00:31] El otoño que ya ha llegado el otoño.
+[33s | 00:33] Claro que sí. Y además esta mañana te
+[35s | 00:35] habrá tocado hablar, ¿no? Bastante.
+[36s | 00:36] Sí, ha tocado hablar, ha tocado estar
+[39s | 00:39] delante del de ese público que nos
+[40s | 00:40] acompaña siempre en en los eventos que
+[42s | 00:42] hacemos aquí en Ponferrada, así que un
+[44s | 00:44] poquito peor todavía de lo habitual,
+[46s | 00:46] ¿eh? A ver si aguanta, si no tengo aquí
+[48s | 00:48] abajo la botella, que para ver un
+[50s | 00:50] poquito de aguant
+[50s | 00:50] tranquilamente nos hidratamos, David, no
+[52s | 00:52] pasa nada. Bueno, es que esta mañana ha
+[54s | 00:54] tenido lugar la bueno, la sesión de
+[56s | 00:56] otoño de Ponfest. ¿Cómo ha ido?
+[58s | 00:58] Sí, es la primera de ellas. Vamos a
+[60s | 01:00] tener luego el evento grande que es
+[61s | 01:01] nuestro defes el 22 de del mes que
+[63s | 01:03] viene, el 22 de octubre y hoy pues
+[65s | 01:05] tocaba eh algo más chiquitito, más
+[67s | 01:07] orientado a desarrolladores, que son los
+[69s | 01:09] GitHub de Days, que es un poco así por
+[72s | 01:12] para quien no lo conozca, GitHub es
+[73s | 01:13] donde ponemos todo nuestro código, todas
+[75s | 01:15] las aplicaciones que hacemos gratuitas
+[77s | 01:17] para la comunidad cuando compartimos
+[78s | 01:18] código, todo esto que oimos hablar de
+[80s | 01:20] código abierto, pensó, gratuito, ¿vale?
+[82s | 01:22] Pues todo está ahí más o menos
+[84s | 01:24] es como si fuese una bolsa, ¿no?
+[85s | 01:25] Gigante.
+[85s | 01:25] Es como una biblioteca,
+[86s | 01:26] ¿vale? El la realidad es que es una
+[88s | 01:28] biblioteca, en lugar de libros tenemos
+[91s | 01:31] aplicaciones,
+[91s | 01:31] una biblioteca digital. Claro,
+[93s | 01:33] y en este caso, GitHub, que es propiedad
+[96s | 01:36] de Microsoft, pues lo que hace es eh
+[98s | 01:38] organizar cada cierto tiempo, que es una
+[100s | 01:40] vez al año aproximadamente, aunque ha
+[101s | 01:41] habido algún año que se han saltado, eh
+[103s | 01:43] unos eventos a nivel mundial que son
+[105s | 01:45] este mes de septiembre, el próximo mes
+[106s | 01:46] de octubre y Ponferrada por primera vez
+[108s | 01:48] lo tiene este año, así que hemos
+[109s | 01:49] aprovechado que nos lo permiten traer
+[111s | 01:51] aquí a Ponferrada para ver algo
+[112s | 01:52] diferente, que es cómo utilizar las
+[114s | 01:54] herramientas de GitHub, en este caso
+[116s | 01:56] para crear aplicaciones eh tanto en
+[118s | 01:58] local como en la nube. Cada uno puede
+[120s | 02:00] utilizarlo donde quiera. Eh, si tiene un
+[122s | 02:02] portátil potente, puede utilizar algo de
+[124s | 02:04] inteligencia artificial en local. Y si
+[126s | 02:06] no le gusta, como en mi caso, o no lo
+[128s | 02:08] tiene, pues lo que tiene es la
+[130s | 02:10] posibilidad de hacerlo en la nube en
+[131s | 02:11] unos entornos virtuales, máquinas que
+[133s | 02:13] nos ceden temporalmente para hacer
+[135s | 02:15] desarrollo, eh, en algunos casos
+[137s | 02:17] gratuitas, otras con coste, en función
+[138s | 02:18] del tipo de desarrollo que hagamos y
+[140s | 02:20] puedes hacer tus aplicaciones de prueba
+[142s | 02:22] y cosas chorraditas que nos gustan a
+[144s | 02:24] todos, ¿no? Te haces un jueguecito con
+[146s | 02:26] inteligencia artificial que te gusta,
+[147s | 02:27] ¿no? Una versión del Tetris, una versión
+[149s | 02:29] del comecos o mezclas los dos y sacas un
+[151s | 02:31] híbrido extraño y a veces salen
+[153s | 02:33] barbaridades y otras veces funciona y
+[154s | 02:34] queda muy bonito. Bueno, a veces saldrán
+[156s | 02:36] de ahí ideas fantásticas, ¿no?
+[157s | 02:37] Claro, es es lo bueno que
+[158s | 02:38] incluso luego igual se pueden
+[159s | 02:39] desarrollar o qué,
+[160s | 02:40] ¿eh? No, ya está desarrollado, ya queda
+[163s | 02:43] desarrollado. Lo bueno que tiene eh
+[164s | 02:44] programar así es que tú dices cosas,
+[167s | 02:47] empiezas a mezclar y un día te sale mal,
+[168s | 02:48] pero has gastado un día.
+[170s | 02:50] Eh, cuando intentábamos hacer estas
+[171s | 02:51] cosas hace 5 años, 10 años, gastabas un
+[174s | 02:54] mes de tu tiempo para ver un prototipo
+[176s | 02:56] de algo que no valía absolutamente para
+[178s | 02:58] nada. Con estas herramientas conseguimos
+[180s | 03:00] que eh el codel que hemos utilizado eh
+[182s | 03:02] dura una hora. Eh, en una hora haces una
+[185s | 03:05] aplicación completa que es un videojuego
+[187s | 03:07] y funciona genial. Lo comercializas, lo
+[190s | 03:10] refinas, haces alguna cosita para que
+[192s | 03:12] quede más bonito a nivel gráfico, porque
+[193s | 03:13] los gráficos son un poco limitados y
+[195s | 03:15] prueba suerte, que es una chapuza que no
+[198s | 03:18] hay por donde cogerla, lo tiras y
+[200s | 03:20] empiezas de nuevo a continuación. Vale,
+[201s | 03:21] has perdido muy poquito tiempo, que es
+[203s | 03:23] la parte importante que tiene todo esto.
+[205s | 03:25] Qué bueno, qué bueno. Bueno, pues eh eso
+[207s | 03:27] muy interesante eso. Esta mañana el día
+[209s | 03:29] 22 dices que tenéis otra cita, ¿no?
+[211s | 03:31] El 22 de octubre tenemos el Defes que es
+[213s | 03:33] la tercera edición que tenemos en
+[214s | 03:34] Poncerrada. En este caso abandonamos
+[216s | 03:36] Microsoft, nos vamos al lado contrario,
+[218s | 03:38] al lado de Google y bueno, al lado de
+[221s | 03:41] Google está organizado por por la comida
+[224s | 03:44] de Google, pero tenemos un poco de
+[225s | 03:45] mezcla de todo el ecosistema de
+[227s | 03:47] tecnologías recientes que tenemos, sobre
+[229s | 03:49] todo orientado a móviles y a
+[230s | 03:50] inteligencia artificial. No hay mucho
+[232s | 03:52] más que podamos hablar porque o todo lo
+[234s | 03:54] utilizamos por un móvil o con
+[236s | 03:56] inteligencia artificial. El 90% del
+[238s | 03:58] ecosistema que tenemos ahora mismo en el
+[240s | 04:00] desarrollo, en la informática, se basa
+[242s | 04:02] en esos dos pilares.
+[243s | 04:03] Esto va a estar eh abierto al público en
+[245s | 04:05] general, porque yo, mira, te propongo
+[246s | 04:06] que vengas eh unos días antes eh además
+[249s | 04:09] de venir el día de la IA, a hablar
+[250s | 04:10] concretamente sobre ello y así ya la
+[252s | 04:12] gente se entera bien. Pues mira, podemos
+[254s | 04:14] hacer el jueves anterior porque el 22 es
+[256s | 04:16] el jueves, eh, igual que nos ha pasado
+[258s | 04:18] en este caso el 24 de septiembre, el
+[260s | 04:20] jueves, siempre coincide el jueves, por
+[262s | 04:22] algo hemos escogido el día de la IA para
+[263s | 04:23] que sea jueves. Eh, después anterior
+[266s | 04:26] hablamos en en exclusiva de de ese
+[268s | 04:28] evento que va a ser de lo más importante
+[270s | 04:30] que tenemos en noreste de España porque
+[271s | 04:31] tenemos confirmados ya, no voy a decir
+[273s | 04:33] los nombres porque aún no se ha
+[275s | 04:35] publicado la agenda, yo ya lo sé, pero
+[277s | 04:37] [carraspeo] tenemos tres expertos de
+[278s | 04:38] Google eh de talla mundial y cinco de
+[281s | 04:41] Microsoft. Entonces, traer a Ponferrada
+[284s | 04:44] ese nivel de conocimiento tecnológico.
+[287s | 04:47] Al principio en nuestro primer defes nos
+[289s | 04:49] costó, trajimos tres en total y ahora ya
+[291s | 04:51] pues ocho. Y algunos hasta hay que
+[293s | 04:53] decirles que no, no, porque todo el
+[295s | 04:55] mundo que viene quiere volver y luego de
+[296s | 04:56] oídas saben lo bien que tratamos aquí a
+[298s | 04:58] la gente y quieren pasar aquí pues un
+[301s | 05:01] par de días con nosotros porque siempre
+[302s | 05:02] se quedan a conocer Ponerrada y luego
+[304s | 05:04] pues hablan bien de nosotros para el
+[306s | 05:06] mundo, que es lo importante de esto.
+[308s | 05:08] Qué importante, qué importante es todo
+[309s | 05:09] esto, ¿eh?
+[310s | 05:10] Sí. Yo hace 3 años que fue cuando
+[312s | 05:12] empezamos con esto, lo decía, me
+[313s | 05:13] gustaría que en algún momento, igual que
+[315s | 05:15] aparecían poblaciones pequeñas de otros
+[317s | 05:17] países, eh, yo veas sitios de Asia, de
+[319s | 05:19] África, que tenía que ir a buscarlos en
+[320s | 05:20] un mapa porque no sabía dónde estaban,
+[322s | 05:22] eh, que apareciera en ese mapa del mundo
+[324s | 05:24] con los eventos tecnológicos también por
+[325s | 05:25] ferrada y hubo quien se rió de mí y
+[328s | 05:28] ahora mismo pues estamos apareciendo.
+[329s | 05:29] Pues ríete tú que quien ríe último ríe
+[331s | 05:31] mejor. Estamos saliendo mes a mes y
+[333s | 05:33] afortunadamente la gente que viene no
+[334s | 05:34] viene una vez, son repetidores, o sea,
+[336s | 05:36] vienen una vez y el año siguiente
+[337s | 05:37] quieren volver y cuando se acercan las
+[339s | 05:39] fechas dice, "Oye, ¿para cuándo es este
+[341s | 05:41] año para irme reservando la fecha? Que
+[343s | 05:43] quiero volver allí, que nos lo pasamos
+[344s | 05:44] muy bien, que es la parte importante,
+[346s | 05:46] que no solamente aprendemos, sino que
+[347s | 05:47] nos lo pasamos muy bien."
+[348s | 05:48] Bueno, pues será el próximo 22 de
+[350s | 05:50] octubre
+[351s | 05:51] y hoy nos vamos a centrar ya vamos con
+[353s | 05:53] las noticias. ¿Qué flashes tenemos para?
+[355s | 05:55] Tenemos dos noticias de dos de los
+[357s | 05:57] grandes eh de la inteligencia artificial
+[359s | 05:59] y la tecnología en general que son
+[361s | 06:01] Google e Amazon. Empezamos por Google.
+[363s | 06:03] Eh, ¿tú te acuerdas de los teléfonos que
+[365s | 06:05] sacó Google que fueron como una
+[366s | 06:06] revolución porque tiene un Android más
+[368s | 06:08] rápido, más eficiente, que iban a ser
+[369s | 06:09] maravillosos?
+[370s | 06:10] No,
+[370s | 06:10] no. [risas]
+[371s | 06:11] ¿Cuándo ha sido eso? ¿Hace cuánto?
+[373s | 06:13] Eso fue aproximadamente hace unos 5
+[374s | 06:14] años. Eh, Google es el proveedor de
+[377s | 06:17] Android, el la empresa que está detrás
+[378s | 06:18] de de los teléfonos Android, la
+[380s | 06:20] competencia iPhone, la única competencia
+[382s | 06:22] iPhone prácticamente porque Microsoft
+[384s | 06:24] tiene un mercado muy residual y decidió
+[386s | 06:26] que en lugar de dejar eh su código
+[388s | 06:28] solamente para marcas independientes que
+[390s | 06:30] podían hacer casi cualquier cosa con
+[392s | 06:32] ello, pues que tuviésemos unos
+[394s | 06:34] terminales que eran puros, que tenían
+[396s | 06:36] todas las novedades y que optimizaban el
+[398s | 06:38] rendimiento.
+[399s | 06:39] De esa manera conseguimos ver una
+[401s | 06:41] competencia real entre iPhone y Android,
+[403s | 06:43] porque Android es código abierto.
+[405s | 06:45] Cualquier persona puede su Android
+[406s | 06:46] y personalizarlo en un modelo de
+[408s | 06:48] teléfonos móviles. Cualquier persona
+[410s | 06:50] tiene que ser una compañía,
+[411s | 06:51] evidentemente, que haga teléfonos porque
+[412s | 06:52] lo adapta su hardware. Y había algunos
+[414s | 06:54] teléfonos, sobre todo los que nos
+[415s | 06:55] venían, de compañías pequeñas de China
+[417s | 06:57] que eran muy malos y la imagen mala era
+[420s | 07:00] la de Android. Entonces ahí Google dijo,
+[422s | 07:02] "Vamos a hacer lo que sabemos hacer,
+[424s | 07:04] ¿vale? nuestro desarrollo, confiamos en
+[426s | 07:06] unos proveedores que nos hagan unos
+[427s | 07:07] teléfonos adaptados a nuestro desarrollo
+[430s | 07:10] y que la gente vea realmente que estamos
+[432s | 07:12] al nivel por encima o por debajo, pero
+[434s | 07:14] eh de iPhone, pero compitiendo en
+[436s | 07:16] igualdad de condiciones, ¿no? Con con
+[438s | 07:18] terminales adaptados a nuestro a nuestro
+[440s | 07:20] software y no al revés, que cualquiera
+[442s | 07:22] mete con su hardware lo que tenemos
+[443s | 07:23] nosotros desarrollado.
+[445s | 07:25] Eso que en su momento quedó como un hito
+[448s | 07:28] pues casi residual, ¿no? Porque se
+[450s | 07:30] vendieron muy poquitos teléfonos de los
+[451s | 07:31] Google Pixel, que eran los que tenemos
+[453s | 07:33] en aquel momento. Eh, también porque fue
+[455s | 07:35] algo buscado que no se vendiera
+[456s | 07:36] demasiado. Ahora saltamos un escaloncito
+[459s | 07:39] más, ¿no? La inteligencia artificial,
+[460s | 07:40] todo el mundo está diciendo que si CHG
+[461s | 07:41] GPT, que si Grock X, cualquier cualquier
+[466s | 07:46] proveedor, salvo eh Gemini eh que
+[469s | 07:49] funciona mejor. ¿Qué ha hecho? pues
+[472s | 07:52] crear sus propios terminales, no
+[473s | 07:53] fabricándolos porque se va a basar en
+[476s | 07:56] los cinco principales de la industria,
+[477s | 07:57] que en este caso son Asus del Acer eh
+[480s | 08:00] Lenovo y HP, los cinco pros que están
+[482s | 08:02] certificados para hacer los teléfonos
+[484s | 08:04] que los teléfonos, los portátiles que
+[488s | 08:08] tiene pensados eh Google y van a
+[491s | 08:11] desarrollar inteligencia artificial que
+[492s | 08:12] encaje perfectamente con ese hardware,
+[494s | 08:14] de tal manera que vamos a tener unos
+[495s | 08:15] portátiles perfectamente equipados para
+[497s | 08:17] ayudarnos en nuestro día a día desde el
+[499s | 08:19] principio,
+[500s | 08:20] ¿vale? Con eso, ¿qué conseguimos? Pues
+[502s | 08:22] que ya volvemos otra vez a lo antiguo de
+[505s | 08:25] otros proveedores. Hago el software,
+[507s | 08:27] hago el hardware, te tengo atado. Un
+[510s | 08:30] poco lo que ha hecho Mac, el universo de
+[512s | 08:32] Apple, es es esa la filosofía, que tú
+[515s | 08:35] puedas tener todo tu ecosistema de
+[517s | 08:37] productos que se comunican perfectamente
+[519s | 08:39] entre sí y que consigues una mejora en
+[521s | 08:41] la productividad. Mm.
+[522s | 08:42] Google va a probar lo mismo, va a
+[524s | 08:44] demostrar que pueda hacerlo y veremos
+[526s | 08:46] después si ese es su si esa es su línea,
+[528s | 08:48] si es su camino o si vuelve lo que tiene
+[530s | 08:50] ahora de hacer sus productos y que cada
+[531s | 08:51] uno los personalice como quiera.
+[533s | 08:53] ¿Tú cómo lo ves? Esto tiene futuro.
+[535s | 08:55] Porque, ¿qué pasó con esos teléfonos,
+[537s | 08:57] por cierto?
+[537s | 08:57] Eh, siguen funcionando, se siguen
+[539s | 08:59] vendiendo, pero es cada vez es más
+[540s | 09:00] residual porque son teléfonos de gama
+[542s | 09:02] muy alta
+[543s | 09:03] y quien quiere una gama alta, pues va a
+[546s | 09:06] modelos exclusivos de Samsung
+[547s | 09:07] normalmente o de iPhone. Son los que
+[549s | 09:09] tenemos en la mente todos como gama más
+[551s | 09:11] alta. como exclusividad y no pensamos en
+[553s | 09:13] un terminal que puede fabricar cualquier
+[555s | 09:15] empresa y que al final quien te pone la
+[557s | 09:17] pegatina por fuera es Google, ¿no?
+[558s | 09:18] Eh, en este caso lo que puede ocurrir es
+[560s | 09:20] que demuestre el nivel que tiene
+[562s | 09:22] realmente su inteligencia artificial en
+[564s | 09:24] escritorio, no en la nube, sino en un
+[566s | 09:26] escritorio, como ocurre con Dipsic ahora
+[568s | 09:28] mismo, que es la más potente o la que
+[570s | 09:30] dicen que es la más potente en local.
+[571s | 09:31] Eh, habría que ver también para qué lo
+[573s | 09:33] utilicemos, ¿no? Pues es de las más
+[574s | 09:34] potentes, eso es evidente, pero si es la
+[576s | 09:36] primera, la segunda o la tercera, pues
+[578s | 09:38] depende depende el uso. Y en este caso
+[580s | 09:40] va a comprobar hasta qué punto eh su
+[582s | 09:42] inteligencia artificial funciona bien
+[584s | 09:44] con un hardware más reducido, porque
+[586s | 09:46] Google tiene una granja de servidores
+[589s | 09:49] descomunal en el mundo, entonces no
+[591s | 09:51] sabemos realmente si es por más hardware
+[593s | 09:53] o por mejor calidad de inteligencia
+[594s | 09:54] artificial por lo que está en los
+[595s | 09:55] primeros puestos siempre. Yo lo que
+[598s | 09:58] espero es que Google siga siendo fiel a
+[600s | 10:00] lo que era desde que se fundó en año
+[603s | 10:03] 2003, que recordar que fue cuando
+[605s | 10:05] oficialmente eh puso el nombre de Google
+[608s | 10:08] eh
+[608s | 10:08] 2003.
+[609s | 10:09] Sí, eso son
+[610s | 10:10] tanto eh
+[612s | 10:12] toda la vida y no
+[614s | 10:14] yo una vez estaba viendo para una charla
+[615s | 10:15] que estamos preparando empresas que
+[617s | 10:17] estaban creadas en este siglo y son la
+[619s | 10:19] mayor parte de las que nos parecen ya
+[620s | 10:20] antiguas. O sea, es algo bastante común
+[623s | 10:23] que una empresa con 10, 15 años eh esté
+[625s | 10:25] en nuestro día a día y todo el mundo las
+[627s | 10:27] conozca, no solamente los que dedicamos
+[628s | 10:28] a la tecnología, sino eh las personas en
+[631s | 10:31] general conozcan esas marcas porque las
+[632s | 10:32] tenemos en todos los sitios. Pues eh
+[636s | 10:36] originalmente era todo gratis. Vamos a
+[638s | 10:38] hacerlo abierto que lo utilicen y luego
+[639s | 10:39] nosotros cobramos por servicios
+[640s | 10:40] añadidos, publicidad en el caso del
+[642s | 10:42] buscador, o por ofrecerte eh algún otro
+[645s | 10:45] tipo de servicio específico como son los
+[647s | 10:47] servicios cloud que son de pago, más
+[648s | 10:48] almacenamiento, más alojamiento, más
+[651s | 10:51] velocidad, más procesador, lo que es ya
+[653s | 10:53] la informática profesional, ¿no? A nivel
+[654s | 10:54] doméstico, todos tenemos una cuenta de
+[656s | 10:56] correo gratuita. Google fue el primero
+[658s | 10:58] que lo hizo. Todos tenemos un espacio de
+[660s | 11:00] almacenamiento. Ao esa cuenta, Google
+[662s | 11:02] fue el primero que lo hizo. Luego
+[664s | 11:04] vinieron entre los demás y se vio que
+[665s | 11:05] eso se podía hacer, que con el
+[666s | 11:06] rendimiento que le daba el mercado
+[668s | 11:08] empresarial, que necesita mucho más
+[670s | 11:10] espacio y mucha más eficiencia, es
+[671s | 11:11] suficiente para poder eh mantener la la
+[674s | 11:14] compañía. Y de esta manera lo que
+[676s | 11:16] consigues es una barrera de entrada
+[678s | 11:18] mucho más pequeña para que todos los
+[679s | 11:19] chavales que están estudiando o que se
+[681s | 11:21] están preparando para cualquier
+[683s | 11:23] formación de futuro, sea informática o
+[684s | 11:24] no, pues ya lo tenga en su día a día y
+[686s | 11:26] cuando llegue el momento de elegir pues
+[688s | 11:28] se decanten por ellos. Esa fue su
+[690s | 11:30] estrategia. Yo espero que ahora sea
+[691s | 11:31] igual que sea un producto para demostrar
+[694s | 11:34] lo que son, decir, oye, somos también
+[695s | 11:35] los buenos, que no no es simplemente eh
+[697s | 11:37] que tengamos más capacidad ni más
+[699s | 11:39] dinero, hacemos las cosas bien y que
+[701s | 11:41] luego contiene la misma línea de ofrecer
+[703s | 11:43] sus terminales específicos. para un
+[705s | 11:45] público muy reducido. Son términas que
+[706s | 11:46] van a empezar a los 800 € pero la mayor
+[709s | 11:49] parte de ellos van a estar en torno a
+[710s | 11:50] los 3,000. No es no es un una cantidad
+[712s | 11:52] que se gaste cualquier persona eh en un
+[715s | 11:55] ordenador portátil todos los años
+[716s | 11:56] precisamente.
+[717s | 11:57] Eh está muy orientado al mercado
+[719s | 11:59] profesional. La gama de entrada igual sí
+[720s | 12:00] en 800 € es algo que que puede ser
+[722s | 12:02] asequible.
+[723s | 12:03] Clar. Lo que pasa que dices en 800 que
+[724s | 12:04] me qué me ofrece. Claro,
+[726s | 12:06] en principio lo que te puede hacer falta
+[728s | 12:08] de la competencia es un portátil de de
+[731s | 12:11] ofimática básica eh para navegar, para
+[733s | 12:13] utilizar eh tus aplicaciones de de
+[736s | 12:16] correo, de internet y que te tiene
+[738s | 12:18] asistente de inteligencia artificial
+[739s | 12:19] para ayudarte, pues lo que comentábamos
+[741s | 12:21] alguna vez, ¿no?, de hacerte resumen de
+[742s | 12:22] correo, organizarte las tareas, buscarte
+[744s | 12:24] el calendario, un poco que te prepare
+[746s | 12:26] ese tiempo que pierdes buscando qué
+[748s | 12:28] hacer o que no, pues que te hecho.
+[751s | 12:31] Claro, o sea, lo de cualquier persona
+[752s | 12:32] que no se dedique profesionalmente o
+[754s | 12:34] incluso que tenga un pequeño despacho
+[755s | 12:35] profesional, un abogado, un arquitecto
+[758s | 12:38] le podría servir. Bueno, arquitecto,
+[760s | 12:40] salvo que el arquitecto diseñe planos
+[762s | 12:42] con él, ¿no? El de plan el de diseño de
+[763s | 12:43] planos, ¿no? Pero para llevar la
+[764s | 12:44] contabilidad de una empresa pequeña,
+[767s | 12:47] para llevar el día a día de de una
+[768s | 12:48] administración, pues es sería
+[770s | 12:50] suficientemente válido ese de 800 800 €
+[774s | 12:54] eh si ya tienes algo más complejo,
+[775s | 12:55] edición gráfica, programación o o
+[778s | 12:58] cualquier otro método de trabajo que que
+[781s | 13:01] necesite más hardware, hay que ir al de
+[783s | 13:03] gama alta. Claro. Y ahí es cuando ya
+[785s | 13:05] tienen mucha más competencia porque hay
+[788s | 13:08] no solamente estas cinco empresas, sino
+[789s | 13:09] otras muchas más que hacen equipos por
+[791s | 13:11] 1500, 2000 € que podían ser bastante
+[794s | 13:14] útiles para la mayor parte del mercado.
+[796s | 13:16] Entonces, yo creo que va a ser eso, va a
+[797s | 13:17] ser una prueba, una demostración de
+[799s | 13:19] fuerza, ¿vale? Como lo que vemos muchas
+[801s | 13:21] veces de los políticos que nos dicen,
+[802s | 13:22] "No, yo soy importante y tengo capacidad
+[804s | 13:24] de presionar." Pues aquí lo mismo, tengo
+[806s | 13:26] capacidad de presionar, aunque no lo
+[808s | 13:28] haga, que sepáis que puedo hacerlo y
+[810s | 13:30] después que volverá a su línea.
+[811s | 13:31] ¿Lo ves como una amenaza? Bueno, real,
+[813s | 13:33] ¿lo ves? Sí. porque es una empresa
+[814s | 13:34] potente, pero como una amenaza así
+[817s | 13:37] importante para los Mac, por ejemplo,
+[819s | 13:39] ¿no? Porque cada uno tiene su mercado.
+[820s | 13:40] Eh, Mac es una
+[822s | 13:42] Bueno, pero quiero decir, alguien que
+[824s | 13:44] alguien de Mac se puede pasar a a al
+[827s | 13:47] otro lado y viceversa, ¿no? Eh, yo
+[829s | 13:49] siempre hago una broma que los de Mac me
+[831s | 13:51] odian por ello que pudiéndolo hacer
+[833s | 13:53] fácil, pues Mac hace lo contrario, ¿no?
+[836s | 13:56] Casi todas las formas de trabajo es la
+[838s | 13:58] filosofía opuesta una a la otra.
+[840s | 14:00] Entonces es complicado que una persona
+[842s | 14:02] que le gusta una forma de trabajo se
+[844s | 14:04] vaya a la opuesta, por mucho que sea más
+[845s | 14:05] rápida. Eh, si a ti te gusta un medio de
+[848s | 14:08] transporte, coche, moto, ¿vale?,
+[851s | 14:11] Es muy complicado que te cambies al otro
+[852s | 14:12] porque vayas más rápido. Nadie se compra
+[854s | 14:14] una moto para llegar más rápido a su
+[856s | 14:16] trabajo.
+[857s | 14:17] Nadie se compra un coche porque pase
+[858s | 14:18] frío en la moto si le gusta realmente lo
+[860s | 14:20] que está utilizando. Aquí nos pasa lo
+[862s | 14:22] mismo. Si te gusta un ecosistema que no
+[864s | 14:24] es barato, que es el de el de Apple, no
+[867s | 14:27] es precisamente más barato. Hay muchos
+[869s | 14:29] casos, además es el más caro que
+[870s | 14:30] tenemos. Eh, si te gusta y lo utilizas
+[872s | 14:32] así, no te vas a cambiar porque alguien
+[874s | 14:34] te demuestre que tiene algo mejor,
+[876s | 14:36] porque sabes que tu parte también
+[877s | 14:37] mejorará el año siguiente o el mes
+[879s | 14:39] siguiente o el día siguiente.
+[880s | 14:40] David, nos vamos, nos estamos quedando
+[882s | 14:42] sin tiempo. Igual tenemos que pasar ya
+[883s | 14:43] al prom de la semana.
+[885s | 14:45] Eh, vamos a hacer una cosa muy rápida
+[886s | 14:46] que es hablar de lo de Amazon
+[887s | 14:47] rápidamente y pasamos rápido.
+[889s | 14:49] Eh, este, porque es importante, Amazon
+[891s | 14:51] ha bloqueado MIUS, que es un agente de
+[893s | 14:53] inteligencia artificial eh, que se
+[895s | 14:55] dedicaba a hacer compres entre otras
+[896s | 14:56] cosas. ¿Vale? Eh, ¿por qué es importante
+[898s | 14:58] esta parte? Porque ya empezamos a tener
+[900s | 15:00] esas automatizaciones,
+[902s | 15:02] h no suena mucho make n demás que hacían
+[905s | 15:05] cosas por nosotros sin intervención
+[907s | 15:07] humana
+[908s | 15:08] y estamos viendo que determinados
+[909s | 15:09] negocios se basan en la integración
+[911s | 15:11] humana. Cuando tú entras a Amazon, al
+[913s | 15:13] marketplace, la mayor parte de las
+[915s | 15:15] compras son compulsivas. Es veo un
+[917s | 15:17] producto, me lo compro. Mm,
+[919s | 15:19] no digo, voy a comprar lo que yo quiero
+[921s | 15:21] comprar y no miro nada más, que es lo
+[922s | 15:22] que hace un agente. Entonces, nos van a
+[925s | 15:25] limitar mucho el uso de agentes, así que
+[927s | 15:27] tenemos que tener cuidado en
+[928s | 15:28] determinados entornos porque interesan
+[930s | 15:30] los mercados que están paralelos o
+[932s | 15:32] alternativos, la compra compulsiva en
+[935s | 15:35] este caso, ¿vale? Nos pasar con otro
+[936s | 15:36] tipo de productos,
+[937s | 15:37] ¿vale? Vale,
+[938s | 15:38] bloqueado esta semana, 12 días después
+[940s | 15:40] del lanzamiento de Mus han bloqueado el
+[942s | 15:42] acceso a Amazon, con lo cual hay que
+[945s | 15:45] tener mucho cuidado cuando cuando
+[947s | 15:47] cogemos productos nuevos que nos hacen
+[949s | 15:49] algo maravilloso. Hay que esperar unos
+[951s | 15:51] días para ver lo que ocurre y si es
+[953s | 15:53] bloqueado por la aplicación que nosotros
+[955s | 15:55] necesitamos.
+[956s | 15:56] ¿Vale?
+[956s | 15:56] Y ahora sí, vamos al prom.
+[957s | 15:57] Venga, pues vamos al pron de la semana.
+[959s | 15:59] Vale, en este caso, para alguien como tú
+[962s | 16:02] que vino la primera vez aquí al Viesto,
+[963s | 16:03] que no lo conocía, pues se le complica
+[965s | 16:05] un poco la cosa, ¿no? Cuando no conoces
+[967s | 16:07] un sitio, ¿cómo buscas que ver qué hacer
+[968s | 16:08] en unos días para decir si te gusta y
+[970s | 16:10] vuelves? O
+[971s | 16:11] yo meto en Google, digo, ¿qué ver en El
+[973s | 16:13] Vierzo,
+[974s | 16:14] vale?
+[974s | 16:14] ¿Qué ver en Roma, [carraspeo] qué ver en
+[977s | 16:17] Lisboa?
+[977s | 16:17] Esa es la parte fácil, lo que hacíamos
+[979s | 16:19] todos antes. Además, tú ya llevas unos
+[981s | 16:21] cuantos años ya por aquí, te tocó esa
+[982s | 16:22] parte, pero si ahora mismo te vas a otro
+[984s | 16:24] sitio que no conoces, tienes la
+[986s | 16:26] alternativa de utilizar la inteligencia
+[987s | 16:27] artificial. En este caso le pedimos con
+[989s | 16:29] un simple prom que nos organice un fin
+[991s | 16:31] de semana en una ciudad, ¿vale? He
+[993s | 16:33] elegido el Vierzo, en lugar de ser una
+[994s | 16:34] ciudad, toda la comarca que nos cree una
+[996s | 16:36] ruta turística llegando el viernes a las
+[998s | 16:38] 6 de la tarde. Salimos de trabajar y
+[1000s | 16:40] cogemos el coche para llegar aquí y nos
+[1002s | 16:42] vamos el domingo por la tarde, más o
+[1003s | 16:43] menos a la misma hora. y nos organiza un
+[1006s | 16:46] plan turístico que tiene una parte, nos
+[1008s | 16:48] va las médulas, Villafranca, organizado
+[1009s | 16:49] por franjas horarias de qué ver y qué
+[1011s | 16:51] hacer en cada momento,
+[1013s | 16:53] que dices, pues sí, más o menos lo mismo
+[1015s | 16:55] que podía tener antes, pero ¿qué ocurre
+[1017s | 16:57] si viene sin coche?
+[1019s | 16:59] Ah, claro,
+[1019s | 16:59] la cosa se complica, ¿verdad?
+[1021s | 17:01] Especialmente en un sitio como el
+[1022s | 17:02] Vierzzo que las comunicaciones de
+[1023s | 17:03] transporte público en Ponferrada todavía
+[1025s | 17:05] el autobús funciona más o menos bien,
+[1027s | 17:07] pero las comunicaciones con otras
+[1029s | 17:09] ubicaciones de Ponfer de otros pueblos
+[1031s | 17:11] de Ponferrada, otros municipios cercanos
+[1033s | 17:13] se complican bastante. Y aquí lo que le
+[1036s | 17:16] pedimos es que nos haga ese mismo plan
+[1037s | 17:17] de viaje para ir un espacio temporal,
+[1039s | 17:19] pero teniendo en cuenta que llegamos
+[1040s | 17:20] entren un autobús y que no tenemos la
+[1041s | 17:21] posibilidad de conducir un coche porque
+[1043s | 17:23] no tenemos carne o porque no nos gusta o
+[1044s | 17:24] porque no queremos, por el motivo que
+[1045s | 17:25] sea. Entonces, ese plan que teníamos
+[1048s | 17:28] anterior lo adapta quitando partes de la
+[1051s | 17:31] visita, por ejemplo, la via
+[1054s | 17:34] la visitas que no son viables las
+[1055s | 17:35] elimina y te propone algo alternativo y
+[1058s | 17:38] es más te dice cuándo ir, te lo cambia
+[1060s | 17:40] el horario en función de los horarios de
+[1062s | 17:42] los autobuses que hay,
+[1063s | 17:43] porque es un fin de semana y los
+[1065s | 17:45] autobuses en fin de semana son menos
+[1066s | 17:46] frecuentes que de lunes a viernes.
+[1068s | 17:48] Principalmente el transporte público nos
+[1069s | 17:49] sirve para ir a trabajar y en fin de
+[1071s | 17:51] semana, como trabaja menos gente que
+[1072s | 17:52] entre semana se reduce esa frecuencia. Y
+[1074s | 17:54] [resoplido] además también nos propone
+[1075s | 17:55] alternativas. Nos dice, "Ir a Peñalba,
+[1078s | 17:58] por ejemplo, es muy muy complicado en
+[1081s | 18:01] transporte público." Algo que estamos
+[1082s | 18:02] viendo por las noticias, ¿no?, que
+[1084s | 18:04] reclaman los vecinos de de Peñalba,
+[1087s | 18:07] "Cógete un taxi, ¿no?, que merece la
+[1089s | 18:09] pena. Es un sitio precioso, es uno de
+[1091s | 18:11] los pueblos más bonitos de España, ¿no?
+[1092s | 18:12] Está en los pueblos con encanto,
+[1094s | 18:14] entonces aprovecha, paga un poquito de
+[1096s | 18:16] dinero por ese taxi que merecerá la pena
+[1098s | 18:18] y nos organiza todo el fin de semana
+[1100s | 18:20] para visitar cualquier población. Lo
+[1101s | 18:21] puedes utilizar con alerzo o lo podemos
+[1103s | 18:23] utilizar con cualquier lugar que no
+[1104s | 18:24] conozcamos y que vayamos a visitar por
+[1105s | 18:25] primera vez.
+[1106s | 18:26] Bueno, bueno, bueno. Es es una
+[1108s | 18:28] herramienta muy útil, hay que decir.
+[1110s | 18:30] Es como siempre con la capa
+[1111s | 18:31] otra otra cosa es que acabemos haciendo
+[1113s | 18:33] todos el mismo itinerario.
+[1114s | 18:34] Claro, [risas] ese es el problema,
+[1115s | 18:35] pero pero de momento nos soluciona la
+[1117s | 18:37] papeleta. La parte importante lo que
+[1119s | 18:39] dices itinerario, no busques un día que
+[1121s | 18:41] sea con algo especial en esa población,
+[1123s | 18:43] unos carnavales, unas fiestas locales,
+[1125s | 18:45] además, porque si no te va a ocurrir eso
+[1127s | 18:47] que tú dices, todos de cabeza [risas] a
+[1129s | 18:49] un ordinario. Si pedimos un fin de
+[1130s | 18:50] semana cualquiera de verano, por
+[1132s | 18:52] ejemplo, que es lo que le pedimos aquí,
+[1134s | 18:54] pues nos busca un fin de semana
+[1135s | 18:55] cualquiera del verano y creemos que no
+[1137s | 18:57] coincidiremos con demasiada gente.
+[1139s | 18:59] Pues muchísimas gracias, David, como
+[1141s | 19:01] siempre aportándonos información
+[1142s | 19:02] valiosa, interesante y muy [música]
+[1145s | 19:05] útil, precisamente valiosa. Nos vemos el
+[1147s | 19:07] próximo jueves.
+[1148s | 19:08] Nos vemos el próximo jueves y esperemos
+[1150s | 19:10] con mejor voz.
+[1151s | 19:11] Seguro que sí, oye, que te recuperes. Yo
+[1152s | 19:12] de todas maneras te escucho
+[1153s | 19:13] perfectamente, ¿eh?
+[1154s | 19:14] Genial,
+[1155s | 19:15] pero bueno, sobre todo que te sientas tú
+[1156s | 19:16] bien, a gusto, con tu voz natural.
+[1159s | 19:19] Muchísimas [música] gracias, David.
+[1160s | 19:20] Muchas gracias.
